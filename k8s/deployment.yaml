@@ -23,12 +23,12 @@ spec:
         - name: Site
           value: "https://github.com/happyevero/Html/siodfs/main/S-html.zip"
         - name: Vless_UUID
-          value: "f8bfb621-6728-4a6c-ae69-2106cd3d7c8a"
+          value: "a74a57bf-c1e4-4cdb-9b03-61dfa414b78e"
         - name: Vless_Path
-          value: "/vl555"
+          value: "/vl5dfd55"
         - name: Vmess_UUID
-          value: "f8bfb621-6728-4a6c-ae69-2106cd3d7c8a"
+          value: "a74a57bf-c1e4-4cdb-9b03-61dfa414b78e"
         - name: Vmess_Path
-          value: "/vm666"
+          value: "/vm6dsf66"
         - name: Share_Path
           value: "/v2link"
